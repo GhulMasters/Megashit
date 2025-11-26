@@ -1,0 +1,18 @@
+[26Nov2025 00:00:27.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Nov2025 00:00:27.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[26Nov2025 00:00:52.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Nov2025 00:00:52.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[26Nov2025 00:00:55.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Nov2025 00:00:55.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Nov2025 00:00:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Nov2025 00:00:55.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AceOfSparks lost connection: Disconnected
+[26Nov2025 00:00:55.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AceOfSparks left the game
+[26Nov2025 00:00:55.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Nov2025 00:00:56.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Nov2025 00:00:56.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Nov2025 00:00:56.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Nov2025 00:00:56.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Nov2025 00:00:56.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Nov2025 00:00:56.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Nov2025 00:00:56.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Nov2025 00:00:56.613] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
